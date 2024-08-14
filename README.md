@@ -1,4 +1,4 @@
-Ranking likely conditions from inputs of symptom : nature : location : intensity : frequency : duration : onset : excitation
+Ranking likely conditions from inputs of [symptom : nature : location : intensity : frequency : duration : onset : excitation]
 
 
 ## Description
