@@ -1,3 +1,6 @@
+Ranking likely conditions from inputs of symptom : nature : location : intensity : frequency : duration : onset : excitation
+
+
 ## Description
 
 The scripts in this project create valid [Synthea](https://github.com/synthetichealth/synthea) generic modules generated using disease and symptoms as defined
